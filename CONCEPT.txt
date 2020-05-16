@@ -1,0 +1,5 @@
+W moim programie mam dwa w¹tki - pracownika na górze i pracownika na dole.
+W funkcji main synchronizujê odpowiednio ich pracê. Za ka¿dym razem printujê 
+co dodajê, co odejmujê i obecny stan taœmy. Pracownicy dzia³aj¹ zgodnie z kolejk¹
+LIFO, co mo¿e nie jest najbardziej ¿yciowym rozwi¹zaniem, ale poza tym - synchronizacja
+przebiega prawid³owo.  
